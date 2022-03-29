@@ -1,0 +1,1 @@
+When submitting an issue in the [@testing-library/react-native](https://github.com/callstack/react-native-testing-library/issues) repository, without an easy way for us (the maintainers) it's hard to figure out what's going on, so please feel free to fork the repo and use it as a base to reproduce the issue you have.
